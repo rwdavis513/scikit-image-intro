@@ -2,7 +2,7 @@
 beautifulsoup4==4.4.1
 jupyter
 matplotlib==1.4.3
-notebook==4.0.6
+notebook==6.4.10
 numpy==1.9.2
 pandas==0.16.1
 pylab==0.1.3
